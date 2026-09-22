@@ -12,7 +12,7 @@ public:
         cout << "Default Constructor Called" << endl;
     }
 
-    // Parameterized Constructor
+    // Parameterized Construc
     Demo(int v) {
         value = v;
         cout << "Parameterized Constructor Called" << endl;
